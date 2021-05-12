@@ -1,0 +1,25 @@
+project:
+    name: MEEK Investment 
+    
+content:
+    - source: newProblemStatement.md
+    - source: newUsecases.md
+    - source: ComponentDevelopmentDiagrams.md
+    - source: ValidationAndVerification.md
+    - source: newRef.md   
+
+appendices:
+   - source: appendix1.pdf
+   - source: appendix2.pdf
+   - source: appendix3.pdf 
+   - source: appendix4.pdf
+
+theme:
+    headings:
+        font-family: Open Sans
+        color: "#000000"
+    text:
+        font-family: Open Sans
+        color: "#000000"
+
+
